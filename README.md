@@ -107,6 +107,7 @@ rm snapshot-gnoland.tar.lz4
 
 sudo systemctl start gnoland && sudo journalctl -fu gnoland -o cat
 ```
+Special Thanks Shazoes
 
 -----
 
