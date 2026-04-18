@@ -149,3 +149,5 @@ gnokey broadcast -remote $RPC call.tx
   * **Log Check:** `journalctl -u gnoland -fo cat`
   * **Service Restart:** `sudo systemctl restart gnoland`
   * **Sync Status:** `gnoland status 2>&1 | jq`
+
+
